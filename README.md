@@ -1,2 +1,0 @@
-# repetitor-yest
-Project practice
