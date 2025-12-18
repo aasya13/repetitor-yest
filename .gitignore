@@ -1,0 +1,35 @@
+echo "# Python" > .gitignore
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore
+echo "*.pyo" >> .gitignore
+echo "*.pyd" >> .gitignore
+echo ".Python" >> .gitignore
+echo "venv/" >> .gitignore
+echo "env/" >> .gitignore
+echo ".env" >> .gitignore
+echo ".venv" >> .gitignore
+echo "ENV/" >> .gitignore
+echo "env.bak/" >> .gitignore
+echo "venv.bak/" >> .gitignore
+echo "" >> .gitignore
+echo "# Django" >> .gitignore
+echo "*.log" >> .gitignore
+echo "local_settings.py" >> .gitignore
+echo "db.sqlite3" >> .gitignore
+echo "" >> .gitignore
+echo "# React" >> .gitignore
+echo "node_modules/" >> .gitignore
+echo ".npm" >> .gitignore
+echo "*.log" >> .gitignore
+echo "*.pid" >> .gitignore
+echo ".pnp.*" >> .gitignore
+echo "" >> .gitignore
+echo "# IDE" >> .gitignore
+echo ".vscode/" >> .gitignore
+echo ".idea/" >> .gitignore
+echo "*.swp" >> .gitignore
+echo "*.swo" >> .gitignore
+echo "" >> .gitignore
+echo "# OS" >> .gitignore
+echo ".DS_Store" >> .gitignore
+echo "Thumbs.db" >> .gitignore
